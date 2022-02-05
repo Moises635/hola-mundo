@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio.
 
-Autor: Moisés Guillermo Patiño Ramírez
+Autor: Moisés Guillermo Patiño Ramírez.
 Fecha 5 de febrero
