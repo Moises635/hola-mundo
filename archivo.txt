@@ -1,0 +1,1 @@
+En este apartado solo son archivos de texto o código donde tenemos que especificar la extensión del archivo en el título.
